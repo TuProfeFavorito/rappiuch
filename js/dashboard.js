@@ -58,7 +58,7 @@ const compras = [
         ]
     },
     {
-        "id": "16",
+        "id": "18",
         "uuid": "1566664514aa",
         "nombre": "Compra en Azangaro",
         "monto": "S/. 200",
